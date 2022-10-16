@@ -1,3 +1,3 @@
 # Spotify-But-Better
 
-run js`npm i` before starting to change the code of this project
+run `npm i` in your terminal before starting to change the code of this project
